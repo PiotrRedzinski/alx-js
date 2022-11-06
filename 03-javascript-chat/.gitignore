@@ -1,0 +1,8 @@
+npmmodules
+node_modules
+.parcel-cache
+.idea
+dist
+js/calculate.js
+js/hello.js
+js/main.js
