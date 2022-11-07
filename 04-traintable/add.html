@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li>
+        <a href="index.html">Lista polaczen pociagow</a>
+      </li>
+      <li>
+        <a href="add.html">Dodaj polaczenie pociagow</a>
+      </li>
+    </ul>
+  </nav>
+  <div>
+    <h1>Dodaj nowe polaczenie</h1>
+    <form id="addTrains">
+      <label>From:<input id="from" type="text" required></label>
+      <label>To:<input id="to" type="text" required></label>
+      <label>Date:<input id="date" type="date" required></label>
+      <label>isPremium:<input id="isPremium" type="checkbox"><label>
+      <button type="submit">Add</button>
+    </form>
+  </div>
+  <script type="module" src="./js/add.js"></script>
+</body>
+</html>

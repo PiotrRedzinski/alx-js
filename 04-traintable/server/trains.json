@@ -1,0 +1,60 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "from": "Warsaw",
+      "to": "Wroclaw",
+      "date": "07.11.2022",
+      "isPremium": true
+    },
+    {
+      "id": 2,
+      "from": "Kraków",
+      "to": "Wroclaw",
+      "date": "05.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": 3,
+      "from": "Gdańsk",
+      "to": "Warszawa",
+      "date": "01.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": 4,
+      "from": "Kołobrzeg",
+      "to": "Wrocław",
+      "date": "10.11.2022",
+      "isPremium": true
+    },
+    {
+      "id": 5,
+      "from": "Szczecin",
+      "to": "Wrocław",
+      "date": "4.11.2022",
+      "isPremium": false
+    },
+    {
+      "id": "4d108c9e-8811-48bc-9dd8-e491f87e5762",
+      "from": "aa",
+      "to": "100",
+      "date": "2022-11-09",
+      "isPremium": false
+    },
+    {
+      "id": "f9f154ba-4b85-4efa-8bd2-6bb110569c2e",
+      "from": "Berlin",
+      "to": "Moskwa",
+      "date": "2022-11-07",
+      "isPremium": false
+    },
+    {
+      "id": "e163770f-9a0e-40d6-bcf0-dba16dbbedba",
+      "from": "Berlin",
+      "to": "Warszawa",
+      "date": "2022-11-08",
+      "isPremium": true
+    }
+  ]
+}

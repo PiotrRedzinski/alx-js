@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "message":"Kurs jest fajny",
+      "author":"Damian"
+    },
+    {
+      "author":"Damian",
+      "message":"Jest fajnie"
+    },
+    {
+      "author":"Pawel",
+      "message":"Jestem na kursie ALX"
+    },
+    {
+      "author":"Paweł",
+      "message":"Jestem na kursie ALX 2"
+    },
+    {
+      "author":"damian",
+      "message":"umiem w LS"
+    }
+  ]
+}
